@@ -8,7 +8,7 @@ public class Main {
 	// Testing Series library
 
         System.out.println("******** Sum ************");
-        for(int i = 0; i == 10; i++){
+        for(int i = 0; i <= 10; i++){
             System.out.println(Series.nSum(i));
         }
     }
