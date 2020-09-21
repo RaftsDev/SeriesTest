@@ -19,7 +19,7 @@ public class Main {
 
         System.out.println("******** Fibonacci ************");
         for(int i = 0; i <= 10; i++){
-            System.out.println(Series.nSum(i));
+            System.out.println(Series.fibonacci(i));
         }
     }
 }
